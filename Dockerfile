@@ -7,7 +7,7 @@ LABEL homepage.group=Minecraft
 LABEL homepage.name="FTB Unstable 1.20: Forge"
 LABEL homepage.icon="https://apps.modpacks.ch/modpacks/art/104/unstableforge512x512.png"
 LABEL homepage.widget.type=minecraft
-LABEL homepage.widget.url=FTB-Unstable-1.20-Forge:25565
+LABEL homepage.widget.url=udp://FTB-Unstable-1.20-Forge:25565
 
 
 RUN apt-get update && apt-get install -y curl && \
