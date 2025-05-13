@@ -5,7 +5,7 @@ FROM openjdk:17.0.2-jdk-buster
 LABEL version="1.5.0"
 LABEL homepage.group=Minecraft
 LABEL homepage.name="FTB Unstable 1.20: Forge"
-LABEL homepage.icon="https://apps.modpacks.ch/modpacks/art/104/unstableforge512x512.png"
+LABEL homepage.icon="https://cdn.feed-the-beast.com/blob/be/be5012594f6922fc863978827bf9a09342d03d3df4f3c653072207d3d42ff81f.png"
 LABEL homepage.widget.type=minecraft
 LABEL homepage.widget.url=udp://FTB-Unstable-1.20-Forge:25565
 
